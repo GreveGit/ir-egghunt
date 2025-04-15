@@ -1,6 +1,6 @@
 # 🥚 IR-EggHunt - Interactive Resource Easter Egg Hunt Script
 
-Welcome to **IR-EggHunt**! This fun and festive **Easter Egg Hunt** script is part of the *Interactive Resource* (IR) series for **FiveM QBCore-based servers**. It brings a seasonal, customizable scavenger hunt experience where players can collect hidden Easter eggs scattered across the map and earn rewards!
+Welcome to **IR-EggHunt**! This fun and festive **Easter Egg Hunt** script is part of the *Interactive Resource* (IR) series for **FiveM servers**. It brings a seasonal, customizable scavenger hunt experience where players can collect hidden Easter eggs scattered across the map and earn rewards!
 
 ---
 
